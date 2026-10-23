@@ -11,19 +11,18 @@
 
 ![셀트리온 재무 분석 리포트](docs/images/celltrion_report.png)
 
-<details>
+
 <summary>리포트 전체 화면 보기</summary>
 
 ![셀트리온 재무 분석 리포트 전체](docs/images/celltrion_report_full.png)
 
-</details>
 
-<details>
+
 <summary>시작 화면</summary>
 
 ![시작 화면](docs/images/home.png)
 
-</details>
+
 
 ---
 
